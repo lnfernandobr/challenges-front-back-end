@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Link, withRouter } from "react-router-dom";
 import { connect } from "react-redux";
 import axios from "axios";
@@ -11,13 +11,17 @@ export const AddDocConnect = ({ viewAlertAction, history }) => {
   const [limitName, setLimitName] = useState(0);
   const [limitDescription, setLimitDescription] = useState(0);
 
+  useEffect(() => {
+    viewAlertAction(false);
+  });
+
   const add = () => {
     axios.post("http://localhost:5000/api/save", {
       name,
       description
     });
 
-    viewAlertAction();
+    viewAlertAction(true);
     history.push("/");
   };
 
@@ -91,7 +95,7 @@ export const AddDocConnect = ({ viewAlertAction, history }) => {
 
 const mapDispatchToProps = dispatch => {
   return {
-    viewAlertAction: () => dispatch(viewAlertAction())
+    viewAlertAction: value => dispatch(viewAlertAction(value))
   };
 };
 
