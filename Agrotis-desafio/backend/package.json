@@ -1,12 +1,12 @@
 {
-  "name": "desafio-agrotis",
+  "name": "frontend-challenger",
   "version": "1.0.0",
-  "description": "Repositorio inicial configurado para novos projetos em node",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec babel-node --presets env,stage-2 src/index.js"
   },
-  "keywords": [],
+  "description": "Backend do desafio",
+  "repository": "https://github.com/lnfernandobr/challenges-front-back-end/tree/master/Agrotis-desafio",
   "author": "Fernando Lima",
   "license": "MIT",
   "devDependencies": {

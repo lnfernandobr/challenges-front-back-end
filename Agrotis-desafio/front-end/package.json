@@ -1,5 +1,7 @@
 {
-  "name": "backend",
+  "name": "frontend-challenger",
+  "author": "Fernando Lima",
+  "repository": "https://github.com/lnfernandobr/challenges-front-back-end/tree/master/Agrotis-desafio",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
