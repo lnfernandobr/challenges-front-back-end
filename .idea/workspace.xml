@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e70b9a9-59ee-473e-9854-361d0102ca86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agrotis-desafio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Agrotis-desafio/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agrotis-desafio/front-end/src/addDoc/AddDoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/Agrotis-desafio/front-end/src/addDoc/AddDoc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agrotis-desafio/front-end/src/redux/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Agrotis-desafio/front-end/src/redux/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Agrotis-desafio/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,12 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="108">
                 <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Agrotis-desafio/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,6 +49,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Agrotis-desafio/readme.md" />
       </list>
     </option>
   </component>
@@ -60,6 +70,17 @@
             <path>
               <item name="Challenger Front-end" type="b2602c69:ProjectViewProjectNode" />
               <item name="Challenger Front-end" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Challenger Front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Challenger Front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="Agrotis-desafio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Challenger Front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Challenger Front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="Agrotis-desafio" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -97,12 +118,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549468170835</updated>
-      <workItem from="1549468172171" duration="249000" />
+      <workItem from="1549468172171" duration="1133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="249000" />
+    <option name="totallyTimeSpent" value="1133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1372" height="748" extended-state="6" />
@@ -139,6 +160,24 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="108">
             <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agrotis-desafio/front-end/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agrotis-desafio/backend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agrotis-desafio/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
